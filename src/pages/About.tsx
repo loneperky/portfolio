@@ -138,10 +138,10 @@ const About = () => {
                   />
                 </div>
                 <div className="p-6 text-center">
-                  <h3 className="text-xl font-semibold">Sarah Johnson</h3>
+                  <h3 className="text-xl font-semibold">Otasowie Christian</h3>
                   <p className="text-primary-400 mb-3">CEO & Founder</p>
                   <p className="text-gray-400 text-sm">
-                    10+ years of experience in tech leadership and innovation.
+                    3+ years of experience in tech leadership and innovation.
                   </p>
                 </div>
               </div>

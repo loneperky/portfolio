@@ -101,7 +101,7 @@ const Contact = () => {
                     <div>
                       <h3 className="text-lg font-semibold mb-1">Email Us</h3>
                       <a href="mailto:info@otaxtech.com" className="text-gray-400 hover:text-primary-400 transition-colors">
-                        info@otaxtech.com
+                        christianotasowie575@gmail.com
                       </a>
                     </div>
                   </div>

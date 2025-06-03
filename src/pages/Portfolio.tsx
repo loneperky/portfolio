@@ -15,8 +15,8 @@ const projects = [
     image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'A modern e-commerce platform with product management, payment processing, and order tracking.',
     technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   },
   {
     id: 2,
@@ -25,8 +25,8 @@ const projects = [
     image: 'https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'Advanced analytics platform using machine learning to provide predictive insights for business decision-making.',
     technologies: ['Python', 'TensorFlow', 'React', 'D3.js'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   },
   {
     id: 3,
@@ -35,8 +35,8 @@ const projects = [
     image: 'https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'Secure healthcare platform for managing patient records, appointments, and billing.',
     technologies: ['Angular', 'Java', 'PostgreSQL', 'Docker'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   },
   {
     id: 4,
@@ -45,8 +45,8 @@ const projects = [
     image: 'https://images.pexels.com/photos/4498362/pexels-photo-4498362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'Mobile application for tracking workouts, nutrition, and health goals with social features.',
     technologies: ['React Native', 'Firebase', 'Redux'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   },
   {
     id: 5,
@@ -55,8 +55,8 @@ const projects = [
     image: 'https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'Migration of on-premises infrastructure to cloud-based solutions for improved scalability and reliability.',
     technologies: ['AWS', 'Terraform', 'Docker', 'Kubernetes'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   },
   {
     id: 6,
@@ -65,8 +65,18 @@ const projects = [
     image: 'https://images.pexels.com/photos/4352249/pexels-photo-4352249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     description: 'IoT-based smart home system with AI-powered automation and voice control capabilities.',
     technologies: ['IoT', 'TensorFlow', 'Node.js', 'React'],
-    link: '#',
-    github: '#'
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
+  },
+  {
+    id: 7,
+    title: 'AI Powered Chatbot',
+    category: 'ai',
+    image: '/download.jpg',
+    description: 'AI based solution that helps students answer questions fast, leveraging Open AI and Gemini API.',
+    technologies: ['Python', 'TensorFlow', 'Flask', 'React'],
+    link: 'https://github.com/loneperky',
+    github: 'https://github.com/loneperky'
   }
 ];
 

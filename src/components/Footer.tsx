@@ -18,19 +18,20 @@ const Footer = () => {
               Empowering businesses with cutting-edge technology solutions that drive innovation and growth.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Facebook">
+              <a href="https://www.facebook.com/christian.otasowie.2025" target="_blank" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Facebook">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Twitter">
+              <a href="https://x.com/xristen_ot?t=AQ1GLAUwfflM6CZdyulSbA&s=09" target="_blank"className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Twitter">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Instagram">
+              <a href="https://www.instagram.com/chris_otasowie?igsh=OG93bWx1OTgzbXRt"  target="_blank"className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/christian-otasowie-074820355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='_blank' className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="LinkedIn">
                 <Linkedin size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Github">
+              <a href="https://github.com/loneperky" 
+              target="_blank"className="text-gray-400 hover:text-primary-500 transition-colors" aria-label="Github">
                 <Github size={20} />
               </a>
             </div>
@@ -101,7 +102,7 @@ const Footer = () => {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-primary-500 mr-2" />
                 <a href="mailto:info@otaxtech.com" className="hover:text-primary-400 transition-colors">
-                  info@otaxtech.com
+                  christianotasowie575@gmail.com
                 </a>
               </li>
             </ul>
@@ -112,17 +113,6 @@ const Footer = () => {
           <p className="text-sm mb-2 md:mb-0">
             &copy; {currentYear} Otaxtech. All rights reserved.
           </p>
-          {/* <div className="flex space-x-6 text-sm">
-            <Link to="/privacy" className="hover:text-primary-400 transition-colors">
-              Privacy Policy
-            </Link>
-            <Link to="/terms" className="hover:text-primary-400 transition-colors">
-              Terms of Service
-            </Link>
-            <Link to="/sitemap" className="hover:text-primary-400 transition-colors">
-              Sitemap
-            </Link>
-          </div> */}
         </div>
       </div>
     </footer>
