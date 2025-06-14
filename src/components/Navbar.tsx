@@ -113,6 +113,7 @@ const Navbar = () => {
               <Brain className="h-5 w-5" />
               <span>Ask</span>
             </NavLink>
+            
             <NavLink
               to="/history"
               className={({ isActive }) => 

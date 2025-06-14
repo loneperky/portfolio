@@ -1,4 +1,3 @@
-import React from 'react';
 import { Users, Target, Zap, Award, Check } from 'lucide-react';
 import AnimatedSection from '../components/AnimatedSection';
 import SectionTitle from '../components/SectionTitle';
