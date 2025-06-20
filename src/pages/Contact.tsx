@@ -15,8 +15,8 @@ const Contact = () => {
     e.preventDefault();
     // In a real application, you would send the form data to your backend here
     const API_URL: string = "https://otaxtech-backend.onrender.com"
-    const LOCAL : string = "http://localhost:3000";
-    await axios.post(`${API_URL}/api/register`, {
+    const LOCAL: string = "http://localhost:3000";
+    await axios.post(`${API_URL}/api/contact`, {
       fullname,
       email,
       subject,
